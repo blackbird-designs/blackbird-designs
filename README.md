@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackbird-designs
+- 👋 Hi, I’m Abhinandan Singh.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently studying about Data Mining and Machine Learning.
 - 💞️ I’m looking to collaborate on Software Automation.
